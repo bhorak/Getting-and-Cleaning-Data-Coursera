@@ -18,7 +18,7 @@
 ##checks if the file exists, if it doesn't the code will download the file into the current directory 
 ## unzips it
 
-if (!file.exists("UCI HAR Dataset_1")) {
+if (!file.exists("UCI HAR Dataset")) {
     if (!file.exists("data.zip")) {
         fileUrl <-"https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
         download.file(fileUrl, destfile="./data.zip")
