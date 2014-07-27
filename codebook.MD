@@ -143,4 +143,4 @@ For each record it is provided:
     each variable for each activity and each subject. 
     -I used an aggregate function to calculate the mean accross both the Activity and the Subject
     -I then used a write.csv function to output my tidy_data table into a csv file
-        
+    -the .csv and .txt file of tidy data can be seen in the UCI HAR Dataset folder of this repository
