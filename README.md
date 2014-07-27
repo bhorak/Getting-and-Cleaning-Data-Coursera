@@ -25,3 +25,5 @@ The Objectives of this Project are:
 3. Uses descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive variable names. 
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+More indepth look at the code and the data set are in the CodeBook
